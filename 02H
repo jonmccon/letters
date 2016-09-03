@@ -1,0 +1,52 @@
+{
+  "_id": "54f81e28d24c39000012168d",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -74.32636421712284,
+          40.6436510771615
+        ],
+        [
+          -74.3252133430494,
+          40.64287071932161
+        ],
+        [
+          -74.32633695959278,
+          40.64191662960697
+        ],
+        [
+          -74.32748783366624,
+          40.64269699860139
+        ],
+        [
+          -74.32636421712284,
+          40.6436510771615
+        ]
+      ]
+    ]
+  },
+  "properties": {
+    "letter": "H",
+    "zoom": 17,
+    "type": "manual",
+    "inMapbox": true,
+    "angle": 41.78443996724113,
+    "width": 143.8586918730289,
+    "height": 157.1723522204275,
+    "taskId": "8549b91c-bd92-11e4-8e16-e4ce8f3c97e6",
+    "modified": "2015-05-04T21:23:05.791Z",
+    "inBing": false,
+    "inGoogle": true,
+    "inNokia": true,
+    "inOSM": false,
+    "beautiful": 3,
+    "readable": 2,
+    "country": "United States",
+    "countryCode": "USA",
+    "subregion": "Northern America",
+    "continent": "North America"
+  },
+  "type": "Feature"
+}
