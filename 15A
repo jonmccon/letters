@@ -1,0 +1,54 @@
+{
+  "_id": "54f90ce5d24c39000012184b",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          1.401195304027576,
+          43.60568375232229
+        ],
+        [
+          1.402501343897788,
+          43.6037074808341
+        ],
+        [
+          1.399209653588143,
+          43.60256682257908
+        ],
+        [
+          1.39790361371789,
+          43.60454313153928
+        ],
+        [
+          1.401195304027576,
+          43.60568375232229
+        ]
+      ]
+    ]
+  },
+  "properties": {
+    "letter": "A",
+    "zoom": 17,
+    "type": "manual",
+    "inMapbox": true,
+    "angle": 64.42705462989491,
+    "width": 282.0084737706929,
+    "height": 340.127910444758,
+    "taskId": "85224f30-bd92-11e4-859f-e4ce8f3c97e6",
+    "authorName": "David Leonard",
+    "authorURL": "http://davidleonard.tv",
+    "modified": "2015-04-27T14:51:43.017Z",
+    "inBing": true,
+    "inGoogle": true,
+    "inNokia": true,
+    "inOSM": false,
+    "beautiful": 3,
+    "readable": 1,
+    "country": "France",
+    "countryCode": "FRA",
+    "subregion": "Western Europe",
+    "continent": "Europe"
+  },
+  "type": "Feature"
+}
