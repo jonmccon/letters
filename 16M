@@ -1,0 +1,53 @@
+{
+  "_id": "554b1b017b55170000f66428",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -119.6784818230815,
+          34.4409112639343
+        ],
+        [
+          -119.6760447041387,
+          34.4409112639343
+        ],
+        [
+          -119.6760447041387,
+          34.43971670812744
+        ],
+        [
+          -119.6784818230815,
+          34.43971670812744
+        ],
+        [
+          -119.6784818230815,
+          34.4409112639343
+        ]
+      ]
+    ]
+  },
+  "properties": {
+    "letter": "M",
+    "zoom": 17,
+    "type": "manual",
+    "angle": 0,
+    "width": 227.1559495616603,
+    "height": 135.0049001686275,
+    "inMapbox": true,
+    "authorName": "Marco Berends",
+    "authorURL": "",
+    "modified": "2015-05-07T08:00:50.692Z",
+    "inBing": false,
+    "inGoogle": true,
+    "inNokia": true,
+    "inOSM": false,
+    "beautiful": 2,
+    "readable": 3,
+    "country": "United States",
+    "countryCode": "USA",
+    "subregion": "Northern America",
+    "continent": "North America"
+  },
+  "type": "Feature"
+}
