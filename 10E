@@ -1,0 +1,54 @@
+{
+  "_id": "5500b22e68aedd00008d4c15",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.04890217001243,
+          26.53254084942751
+        ],
+        [
+          -80.05202095810209,
+          26.53267150992243
+        ],
+        [
+          -80.0518066799229,
+          26.53676550449338
+        ],
+        [
+          -80.04868789183324,
+          26.53663484866028
+        ],
+        [
+          -80.04890217001243,
+          26.53254084942751
+        ]
+      ]
+    ]
+  },
+  "properties": {
+    "letter": "E",
+    "zoom": 17,
+    "type": "manual",
+    "inMapbox": true,
+    "angle": 182.6809953913157,
+    "width": 291.0106462910771,
+    "height": 426.9828155940378,
+    "taskId": "858f1785-bd92-11e4-9dba-e4ce8f3c97e6",
+    "authorName": "Anneli",
+    "authorURL": null,
+    "modified": "2015-05-02T20:30:31.085Z",
+    "inBing": false,
+    "inGoogle": true,
+    "inNokia": true,
+    "inOSM": true,
+    "beautiful": 3,
+    "readable": 2,
+    "country": "United States",
+    "countryCode": "USA",
+    "subregion": "Northern America",
+    "continent": "North America"
+  },
+  "type": "Feature"
+}
