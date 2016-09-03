@@ -1,0 +1,52 @@
+{
+  "_id": "5503447858ab436f268dc127",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -3.245717823879333,
+          55.95263726054995
+        ],
+        [
+          -3.245041070802994,
+          55.95261368440575
+        ],
+        [
+          -3.245093891848772,
+          55.95213839912991
+        ],
+        [
+          -3.24577064492513,
+          55.95216197556355
+        ],
+        [
+          -3.245717823879333,
+          55.95263726054995
+        ]
+      ]
+    ]
+  },
+  "properties": {
+    "letter": "H",
+    "zoom": 17,
+    "type": "manual",
+    "inMapbox": true,
+    "angle": 3.560508904637032,
+    "width": 63.19994901679456,
+    "height": 79.27650541876645,
+    "taskId": "84f4ad02-bd92-11e4-a94a-e4ce8f3c97e6",
+    "modified": "2015-05-04T21:02:51.866Z",
+    "inBing": false,
+    "inGoogle": true,
+    "inNokia": true,
+    "inOSM": false,
+    "beautiful": 3,
+    "readable": 2,
+    "country": "United Kingdom",
+    "countryCode": "GBR",
+    "subregion": "Northern Europe",
+    "continent": "Europe"
+  },
+  "type": "Feature"
+}
