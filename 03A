@@ -1,0 +1,53 @@
+{
+  "_id": "54c8cf94523c6f00008b39ea",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          13.39564275754849,
+          52.46529234546603
+        ],
+        [
+          13.39689373169816,
+          52.46518789193159
+        ],
+        [
+          13.3966574313868,
+          52.46413744105827
+        ],
+        [
+          13.39540645723713,
+          52.46424189708527
+        ],
+        [
+          13.39564275754849,
+          52.46529234546603
+        ]
+      ]
+    ]
+  },
+  "properties": {
+    "letter": "A",
+    "zoom": 18,
+    "type": "manual",
+    "authorName": "Benedikt Groß",
+    "authorURL": "http://benedikt-gross.de",
+    "angle": 7.823634144242263,
+    "width": 235.3783989176154,
+    "height": 338.1484819677715,
+    "inBing": true,
+    "inMapbox": true,
+    "inEsri": true,
+    "inNokia": true,
+    "inGoogle": true,
+    "beautiful": 3,
+    "readable": 3,
+    "modified": "2015-04-26T16:52:20.140Z",
+    "country": "Germany",
+    "countryCode": "DEU",
+    "subregion": "Western Europe",
+    "continent": "Europe"
+  },
+  "type": "Feature"
+}
