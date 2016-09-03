@@ -1,0 +1,54 @@
+{
+  "_id": "5514829943e3270000df668a",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -117.8849836110397,
+          34.17386156404749
+        ],
+        [
+          -117.8838135042412,
+          34.17342896452649
+        ],
+        [
+          -117.8846889420374,
+          34.17180813599582
+        ],
+        [
+          -117.8858590488359,
+          34.17224074382517
+        ],
+        [
+          -117.8849836110397,
+          34.17386156404749
+        ]
+      ]
+    ]
+  },
+  "properties": {
+    "letter": "N",
+    "zoom": 17,
+    "type": "manual",
+    "inMapbox": true,
+    "angle": 24.07822945392484,
+    "width": 119.4557950152943,
+    "height": 199.9999999981374,
+    "taskId": "856a541c-bd92-11e4-8873-e4ce8f3c97e6",
+    "authorName": "Carl Mehling",
+    "authorURL": null,
+    "modified": "2015-05-03T13:56:30.162Z",
+    "inBing": true,
+    "inGoogle": true,
+    "inNokia": true,
+    "inOSM": false,
+    "beautiful": 3,
+    "readable": 2,
+    "country": "United States",
+    "countryCode": "USA",
+    "subregion": "Northern America",
+    "continent": "North America"
+  },
+  "type": "Feature"
+}
