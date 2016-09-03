@@ -1,0 +1,54 @@
+{
+  "_id": "54f73a31d24c390000121356",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -83.287718296051,
+          42.50620339008045
+        ],
+        [
+          -83.28633423461534,
+          42.50620339008045
+        ],
+        [
+          -83.28633423461534,
+          42.50472431521903
+        ],
+        [
+          -83.287718296051,
+          42.50472431521903
+        ],
+        [
+          -83.287718296051,
+          42.50620339008045
+        ]
+      ]
+    ]
+  },
+  "properties": {
+    "letter": "I",
+    "zoom": 17,
+    "type": "manual",
+    "inMapbox": true,
+    "angle": 0,
+    "width": 129.0038759075105,
+    "height": 187.0012958693911,
+    "taskId": "852af9ab-bd92-11e4-a33f-e4ce8f3c97e6",
+    "authorName": "Marco Berends",
+    "authorURL": "http://www.mbe.re",
+    "modified": "2015-05-05T20:12:20.925Z",
+    "inBing": false,
+    "inGoogle": true,
+    "inNokia": true,
+    "inOSM": false,
+    "beautiful": 3,
+    "readable": 3,
+    "country": "United States",
+    "countryCode": "USA",
+    "subregion": "Northern America",
+    "continent": "North America"
+  },
+  "type": "Feature"
+}
