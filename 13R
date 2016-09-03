@@ -1,0 +1,55 @@
+{
+  "_id": "54eaedc39de232000075c1db",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.45095850791009,
+          25.71842870320089
+        ],
+        [
+          -80.44785380084842,
+          25.71847720277371
+        ],
+        [
+          -80.44779669789048,
+          25.71551007812013
+        ],
+        [
+          -80.45090140495215,
+          25.71546157733761
+        ],
+        [
+          -80.45095850791009,
+          25.71842870320089
+        ]
+      ]
+    ]
+  },
+  "properties": {
+    "letter": "r",
+    "zoom": 17,
+    "type": "manual",
+    "authorName": "Esther",
+    "authorURL": "",
+    "angle": -0.9933489306467536,
+    "width": 289.4231683177497,
+    "height": 307.0071971807629,
+    "inBing": false,
+    "inMapbox": true,
+    "inEsri": true,
+    "inNokia": true,
+    "inOsm": true,
+    "inGoogle": true,
+    "inOSM": true,
+    "beautiful": 3,
+    "readable": 3,
+    "modified": "2015-05-01T15:22:15.958Z",
+    "country": "United States",
+    "countryCode": "USA",
+    "subregion": "Northern America",
+    "continent": "North America"
+  },
+  "type": "Feature"
+}
