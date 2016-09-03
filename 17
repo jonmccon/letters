@@ -1,0 +1,53 @@
+{
+  "_id": "54faf0edd24c39000012198c",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          13.20894057884964,
+          52.64209565583009
+        ],
+        [
+          13.2089306977746,
+          52.64138484769516
+        ],
+        [
+          13.20678500689703,
+          52.64139583039734
+        ],
+        [
+          13.20679488797207,
+          52.6421066383538
+        ],
+        [
+          13.20894057884964,
+          52.64209565583009
+        ]
+      ]
+    ]
+  },
+  "properties": {
+    "letter": "?",
+    "zoom": 17,
+    "type": "manual",
+    "inMapbox": true,
+    "angle": 90.48328968456983,
+    "width": 109.1872293239065,
+    "height": 199.9999999981374,
+    "taskId": "84fe3173-bd92-11e4-9a86-e4ce8f3c97e6",
+    "authorName": "Markus Liukka",
+    "modified": "2015-04-28T20:43:52.156Z",
+    "inBing": false,
+    "inGoogle": true,
+    "inNokia": true,
+    "inOSM": true,
+    "beautiful": 3,
+    "readable": 2,
+    "country": "Germany",
+    "countryCode": "DEU",
+    "subregion": "Western Europe",
+    "continent": "Europe"
+  },
+  "type": "Feature"
+}
