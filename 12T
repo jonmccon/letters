@@ -1,0 +1,54 @@
+{
+  "_id": "54c8cf94523c6f00008b3acd",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          144.779604572612,
+          -37.4699546024531
+        ],
+        [
+          144.7822643227884,
+          -37.47010033952038
+        ],
+        [
+          144.7820603742938,
+          -37.47244492388935
+        ],
+        [
+          144.7794006241174,
+          -37.47229919139331
+        ],
+        [
+          144.779604572612,
+          -37.4699546024531
+        ]
+      ]
+    ]
+  },
+  "properties": {
+    "letter": "T",
+    "zoom": 17,
+    "type": "manual",
+    "authorName": "unknown (via Aaron Koblin)",
+    "authorURL": "https://www.google.com/maps/d/viewer?mid=zvaGyOgSJCIQ.ke-5ROpcN9vo",
+    "angle": 3.94932032425762,
+    "width": 248.496774539106,
+    "height": 276.0019318442792,
+    "inBing": false,
+    "inMapbox": true,
+    "inEsri": true,
+    "inNokia": true,
+    "inGoogle": true,
+    "inOSM": false,
+    "beautiful": 3,
+    "readable": 3,
+    "modified": "2015-05-12T06:25:39.477Z",
+    "country": "Australia",
+    "countryCode": "AUS",
+    "subregion": "Australia and New Zealand",
+    "continent": "Oceania"
+  },
+  "type": "Feature"
+}
