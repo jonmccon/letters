@@ -1,0 +1,53 @@
+{
+  "_id": "54c943a9a7bd530000efba67",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.08376687696962,
+          26.31663668069516
+        ],
+        [
+          -80.08345327018279,
+          26.31597175556632
+        ],
+        [
+          -80.08521866896356,
+          26.31530275995585
+        ],
+        [
+          -80.08553227575041,
+          26.31596768892448
+        ],
+        [
+          -80.08376687696962,
+          26.31663668069516
+        ]
+      ]
+    ]
+  },
+  "properties": {
+    "letter": "S",
+    "zoom": 17,
+    "type": "manual",
+    "authorName": "Joey Lee & Benedikt Groß",
+    "authorURL": "http://aerial-bold.com",
+    "angle": 67.0832348898322,
+    "width": 75.06615481833903,
+    "height": 178.6474682465196,
+    "inBing": false,
+    "inMapbox": true,
+    "inEsri": true,
+    "inNokia": true,
+    "inGoogle": true,
+    "beautiful": 3,
+    "readable": 3,
+    "modified": "2015-05-03T10:33:18.873Z",
+    "country": "United States",
+    "countryCode": "USA",
+    "subregion": "Northern America",
+    "continent": "North America"
+  },
+  "type": "Feature"
+}
