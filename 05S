@@ -1,0 +1,55 @@
+{
+  "_id": "54f6fd905374d0eb0bb3adae",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          174.8005212919911,
+          -37.00083945019743
+        ],
+        [
+          174.8013081319388,
+          -37.00064870059543
+        ],
+        [
+          174.8018707683368,
+          -37.00212895251986
+        ],
+        [
+          174.8010839283891,
+          -37.00231969840814
+        ],
+        [
+          174.8005212919911,
+          -37.00083945019743
+        ]
+      ]
+    ]
+  },
+  "id": "514",
+  "properties": {
+    "angle": -16.88576360736749,
+    "letter": "S",
+    "modified": "2015-05-03T10:32:19.669Z",
+    "height": 180.543658351622,
+    "width": 76.64321045577526,
+    "authorName": "Esther",
+    "authorURL": null,
+    "taskId": "859c2a3a-bd92-11e4-997f-e4ce8f3c97e6",
+    "inMapbox": true,
+    "type": "manual",
+    "zoom": 17,
+    "inBing": false,
+    "inGoogle": true,
+    "inNokia": true,
+    "inOSM": false,
+    "beautiful": 3,
+    "readable": 1,
+    "country": "New Zealand",
+    "countryCode": "NZL",
+    "subregion": "Australia and New Zealand",
+    "continent": "Oceania"
+  },
+  "type": "Feature"
+}
